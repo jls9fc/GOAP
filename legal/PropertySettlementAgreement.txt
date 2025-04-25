@@ -1,11 +1,14 @@
 PROPERTY SETTLEMENT AGREEMENT
+Template Form
 
 This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 20__, by and between:
 
 [Name of Party A], residing at [Address], and  
-[Name of Party B], residing at [Address].  
+[Name of Party B], residing at [Address].
 
-Collectively referred to as the "Parties."
+Collectively referred to as the “Parties.”
+
+---
 
 RECITALS
 
@@ -13,50 +16,77 @@ WHEREAS, the Parties are co-owners of the real property located at [Full Propert
 
 [Insert full legal property description from deed]
 
-WHEREAS, the Parties wish to terminate their co-ownership of the Property, with [Party A/Party B] buying out the other’s interest.
+WHEREAS, the Parties wish to terminate their co-ownership of the Property, with [Party A/Party B] buying out the other’s interest;
 
 NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the Parties agree as follows:
 
-1. **Ownership and Title**
-   The Property is currently held as [tenants in common/joint tenants]. Each party owns an undivided [50% or specify]% interest.
+---
 
-2. **Buyout Terms**
-   [Party A/Party B] agrees to buy out [Party B/Party A] for the sum of $__________. Payment shall be made via [refinance proceeds/lump sum] on or before ____________, 20__.
+1. Ownership and Title
+The Property is currently held as [tenants in common / joint tenants]. The Parties own undivided interests in the Property as follows:
+- [Party A]: [Insert percentage]%
+- [Party B]: [Insert percentage]%
 
-3. **Refinancing**
-   [Party A/Party B] shall apply for and obtain refinancing of the existing mortgage by ____________, 20__. Upon closing, [Party B/Party A] shall be released from all obligations related to the current mortgage.
+---
 
-4. **Transfer of Interest**
-   [Party B/Party A] agrees to execute a Quitclaim Deed (or Warranty Deed, as applicable) conveying their full interest in the Property to [Party A/Party B] within three (3) business days of receiving payment.
+2. Buyout Terms
+[Party A/Party B] agrees to buy out [Party B/Party A] for the total sum of $__________. Payment shall be made via [e.g., lump sum / refinance proceeds] on or before ____________, 20__.
 
-5. **Release of Claims**
-   Upon completion of the transfer and payment, the Parties release each other from any and all future claims, obligations, or liabilities relating to the Property.
+---
 
-6. **Disclosure of Liens**
-   The Parties acknowledge that the Property is subject to the following liens: [List or write "None"]. These shall be resolved as follows: [Explanation].
+3. New Financing (If Applicable)
+[Party A/Party B] may obtain new financing to complete this buyout, but there is no existing mortgage on the Property to refinance.
 
-7. **Expenses**
-   The Parties agree that [Party A/Party B] shall be responsible for all costs associated with this transaction, including but not limited to refinancing costs, recording fees, deed preparation, and any legal fees, unless otherwise specified.
+---
 
-8. **Governing Law**
-   This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia.
+4. Transfer of Interest
+[Party B/Party A] agrees to execute a Quitclaim Deed conveying all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement.
 
-9. **Entire Agreement**
-   This Agreement constitutes the entire understanding between the Parties with respect to the subject matter herein and supersedes all prior discussions or agreements.
+---
 
-IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.
+5. Release of Claims
+Upon completion of the buyout and transfer of interest, the Parties mutually release and discharge each other from any and all present and future claims, obligations, or liabilities relating to the Property.
+
+---
+
+6. Disclosure of Liens
+The Parties affirm that the Property is currently not subject to any liens or encumbrances other than standard property taxes and assessments. If any undisclosed liens are discovered, the responsible party shall promptly satisfy or resolve them.
+
+---
+
+7. Expenses
+The Parties agree that [Party A/Party B] shall bear all costs associated with this transaction, including but not limited to any legal fees, deed preparation, recording fees, and any financing costs, unless otherwise agreed in writing.
+
+---
+
+8. No Representations or Warranties
+Each Party acknowledges and agrees that, in entering into this Agreement, they are not relying on any representation, statement, or warranty not expressly set forth herein.
+
+---
+
+9. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia.
+
+---
+
+10. Entire Agreement
+This Agreement constitutes the entire understanding between the Parties concerning the Property and supersedes all prior agreements, oral or written, relating thereto.
+
+---
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written:
 
 _________________________          _________________________  
 [Party A, Name]                          [Party B, Name]
 
+---
+
 STATE OF VIRGINIA  
 COUNTY OF ______________  
 
-Subscribed and sworn before me this ___ day of ____________, 20__.
+Subscribed and sworn before me, a Notary Public in and for the jurisdiction aforesaid, this ___ day of ____________, 20__, by [Party A, Name] and [Party B, Name], who personally appeared and acknowledged the same.
 
 _________________________  
 Notary Public  
 My Commission Expires: __________  
-Notary Registration Number: _______
-
-
+Notary Registration Number: __________
