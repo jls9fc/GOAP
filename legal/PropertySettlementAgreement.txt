@@ -29,7 +29,8 @@ The Property is currently held as tenants in common. The Parties own undivided i
 ---
 
 2. Buyout Terms  
-[Party A/Party B] agrees to buy out [Party B/Party A] for the total sum of $__________. Payment shall be made via [e.g., lump sum / refinance proceeds] on or before ____________, 20__.
+[Party A/Party B] agrees to buy out [Party B/Party A] for the total sum of $__________. Payment shall be made via [e.g., lump sum / refinance proceeds] on or before ____________, 20__.  
+If payment is not made by the stated date, this Agreement shall be void unless otherwise agreed in writing by the Parties.
 
 ---
 
@@ -113,7 +114,7 @@ Signature
 STATE OF VIRGINIA  
 COUNTY OF ______________
 
-The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party A Name].
+The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party A Name], who is personally known to me or has produced [ID type] and who signed this instrument in their individual capacity.
 
 _________________________  
 Notary Public  
@@ -125,7 +126,7 @@ Notary Registration Number: __________
 STATE OF VIRGINIA  
 COUNTY OF ______________
 
-The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party B Name].
+The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party B Name], who is personally known to me or has produced [ID type] and who signed this instrument in their individual capacity.
 
 _________________________  
 Notary Public  
