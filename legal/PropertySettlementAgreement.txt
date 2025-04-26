@@ -93,6 +93,11 @@ This Agreement constitutes the entire understanding between the Parties concerni
 
 ---
 
+15. Attorney Review and Waiver of Counsel  
+Each Party acknowledges that they have been advised of their right to consult with independent legal counsel regarding this Agreement and either has consulted with counsel or knowingly and voluntarily waived such right.
+
+---
+
 IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written:
 
 _________________________  
@@ -108,7 +113,19 @@ Signature
 STATE OF VIRGINIA  
 COUNTY OF ______________
 
-The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party A Name] and [Party B Name].
+The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party A Name].
+
+_________________________  
+Notary Public  
+My Commission Expires: __________  
+Notary Registration Number: __________  
+
+---
+
+STATE OF VIRGINIA  
+COUNTY OF ______________
+
+The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party B Name].
 
 _________________________  
 Notary Public  
