@@ -2,20 +2,20 @@ PROPERTY SETTLEMENT AGREEMENT
 
 This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 20__, by and between:
 
-[Name of Party A], residing at [Address]  ("Party A"),, and  
-[Name of Party B], residing at [Address]  ("Party B").
+[Name of Party A], residing at [Address] ("Party A"), and  
+[Name of Party B], residing at [Address] ("Party B").
 
-Collectively referred to as the “Parties.”
+Collectively referred to as the "Parties."
 
 ---
 
 RECITALS
 
-WHEREAS, the Parties are co-owners of the real property located at [Full Property Address], Virginia, legally described as follows:
+WHEREAS, the Parties are co-owners of the real property located at [Full Property Address], Virginia, legally described as follows (the "Property"):
 
-[Insert full legal property description from deed]
+[Insert full legal property description from deed];
 
-WHEREAS, the Parties wish to terminate their co-ownership of the Property, with [Party A/Party B] buying out the other’s interest;
+WHEREAS, the Parties desire to formally terminate their co-ownership of the Property, with [Party A/Party B] purchasing the other’s interest;
 
 NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the Parties agree as follows:
 
@@ -39,41 +39,56 @@ The Property is currently held as tenants in common. The Parties own undivided i
 ---
 
 4. Transfer of Interest  
-[Party B/Party A] agrees to execute a Quitclaim Deed conveying all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement.
+[Party B/Party A] agrees to execute a Quitclaim Deed conveying all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement. Title and possession shall transfer upon recordation of the Quitclaim Deed.
 
 ---
 
-5. Release of Claims  
+5. Possession  
+Upon completion of the transfer, [Party A/Party B] shall have exclusive possession of the Property.
+
+---
+
+6. Prorations  
+All real estate taxes, homeowners' association dues (if any), and other assessments shall be prorated as of the date of transfer.
+
+---
+
+7. Release of Claims  
 Upon completion of the buyout and transfer of interest, the Parties mutually release and discharge each other from any and all present and future claims, obligations, or liabilities relating to the Property.
 
 ---
 
-6. Disclosure of Liens  
-The Parties affirm that the Property is currently not subject to any liens or encumbrances other than standard property taxes and assessments. If any undisclosed liens are discovered, the responsible Party shall promptly satisfy or resolve them.
+8. Disclosure of Liens  
+The Parties affirm that the Property is currently not subject to any liens or encumbrances other than standard property taxes, assessments, and homeowners' association dues (if applicable). If any undisclosed liens are discovered, the responsible Party shall promptly satisfy or resolve them.
 
 ---
 
-7. Expenses  
+9. Expenses  
 The Parties agree that [Party A/Party B] shall bear all costs associated with this transaction, including but not limited to any legal fees, deed preparation, recording fees, and any financing costs, unless otherwise agreed in writing.
 
 ---
 
-8. No Representations or Warranties  
+10. No Representations or Warranties  
 Each Party acknowledges and agrees that, in entering into this Agreement, they are not relying on any representation, statement, or warranty not expressly set forth herein.
 
 ---
 
-9. Governing Law  
+11. Governing Law  
 This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia.
 
 ---
 
-10. Survival of Certain Obligations  
-The representations and obligations contained in Section 6 (Disclosure of Liens) shall survive the execution of this Agreement and the transfer of interest.
+12. Binding Effect  
+This Agreement shall be binding upon and inure to the benefit of the Parties and their respective heirs, executors, administrators, successors, and assigns.
 
 ---
 
-11. Entire Agreement  
+13. Survival of Certain Obligations  
+The representations and obligations contained in Section 8 (Disclosure of Liens) shall survive the execution of this Agreement and the transfer of interest.
+
+---
+
+14. Entire Agreement  
 This Agreement constitutes the entire understanding between the Parties concerning the Property and supersedes all prior agreements, oral or written, relating thereto.
 
 ---
@@ -81,17 +96,19 @@ This Agreement constitutes the entire understanding between the Parties concerni
 IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written:
 
 _________________________  
-[Party A, Name]
+Signature  
+[Typed Name of Party A]
 
 _________________________  
-[Party B, Name]
+Signature  
+[Typed Name of Party B]
 
 ---
 
 STATE OF VIRGINIA  
 COUNTY OF ______________
 
-Subscribed and sworn before me, a Notary Public in and for the jurisdiction aforesaid, this ___ day of ____________, 20__, by [Party A, Name], who personally appeared and acknowledged the same.
+The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party A Name] and [Party B Name].
 
 _________________________  
 Notary Public  
