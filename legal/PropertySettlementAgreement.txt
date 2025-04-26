@@ -2,8 +2,8 @@ PROPERTY SETTLEMENT AGREEMENT
 
 This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 20__, by and between:
 
-[Name of Party A], residing at [Address], and  
-[Name of Party B], residing at [Address].
+[Name of Party A], residing at [Address]  ("Party A"),, and  
+[Name of Party B], residing at [Address]  ("Party B").
 
 Collectively referred to as the “Parties.”
 
@@ -84,6 +84,7 @@ _________________________
 [Party A, Name]
 
 _________________________  
+[Party B, Name]
 
 ---
 
