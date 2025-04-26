@@ -1,5 +1,4 @@
 PROPERTY SETTLEMENT AGREEMENT
-Template Form
 
 This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 20__, by and between:
 
@@ -22,69 +21,76 @@ NOW, THEREFORE, in consideration of the mutual promises and covenants contained 
 
 ---
 
-1. Ownership and Title
-The Property is currently held as tenants in common. The Parties own undivided interests in the Property as follows:
-- [Party A]: [Insert percentage]%
+1. Ownership and Title  
+The Property is currently held as tenants in common. The Parties own undivided interests in the Property as follows:  
+- [Party A]: [Insert percentage]%  
 - [Party B]: [Insert percentage]%
 
 ---
 
-2. Buyout Terms
+2. Buyout Terms  
 [Party A/Party B] agrees to buy out [Party B/Party A] for the total sum of $__________. Payment shall be made via [e.g., lump sum / refinance proceeds] on or before ____________, 20__.
 
 ---
 
-3. New Financing (If Applicable)
+3. New Financing (If Applicable)  
 [Party A/Party B] may obtain new financing to complete this buyout, but there is no existing mortgage on the Property to refinance.
 
 ---
 
-4. Transfer of Interest
+4. Transfer of Interest  
 [Party B/Party A] agrees to execute a Quitclaim Deed conveying all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement.
 
 ---
 
-5. Release of Claims
+5. Release of Claims  
 Upon completion of the buyout and transfer of interest, the Parties mutually release and discharge each other from any and all present and future claims, obligations, or liabilities relating to the Property.
 
 ---
 
-6. Disclosure of Liens
-The Parties affirm that the Property is currently not subject to any liens or encumbrances other than standard property taxes and assessments. If any undisclosed liens are discovered, the responsible party shall promptly satisfy or resolve them.
+6. Disclosure of Liens  
+The Parties affirm that the Property is currently not subject to any liens or encumbrances other than standard property taxes and assessments. If any undisclosed liens are discovered, the responsible Party shall promptly satisfy or resolve them.
 
 ---
 
-7. Expenses
+7. Expenses  
 The Parties agree that [Party A/Party B] shall bear all costs associated with this transaction, including but not limited to any legal fees, deed preparation, recording fees, and any financing costs, unless otherwise agreed in writing.
 
 ---
 
-8. No Representations or Warranties
+8. No Representations or Warranties  
 Each Party acknowledges and agrees that, in entering into this Agreement, they are not relying on any representation, statement, or warranty not expressly set forth herein.
 
 ---
 
-9. Governing Law
+9. Governing Law  
 This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia.
 
 ---
 
-10. Entire Agreement
+10. Survival of Certain Obligations  
+The representations and obligations contained in Section 6 (Disclosure of Liens) shall survive the execution of this Agreement and the transfer of interest.
+
+---
+
+11. Entire Agreement  
 This Agreement constitutes the entire understanding between the Parties concerning the Property and supersedes all prior agreements, oral or written, relating thereto.
 
 ---
 
 IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written:
 
-_________________________          _________________________  
-[Party A, Name]                          [Party B, Name]
+_________________________  
+[Party A, Name]
+
+_________________________  
 
 ---
 
 STATE OF VIRGINIA  
-COUNTY OF ______________  
+COUNTY OF ______________
 
-Subscribed and sworn before me, a Notary Public in and for the jurisdiction aforesaid, this ___ day of ____________, 20__, by [Party A, Name] and [Party B, Name], who personally appeared and acknowledged the same.
+Subscribed and sworn before me, a Notary Public in and for the jurisdiction aforesaid, this ___ day of ____________, 20__, by [Party A, Name], who personally appeared and acknowledged the same.
 
 _________________________  
 Notary Public  
