@@ -34,7 +34,7 @@ The Property is currently held as tenants in common. The Parties own undivided i
 [Party A/Party B] shall purchase [Party B/Party A]'s interest for the sum of $__________, payable by [e.g., lump sum / refinance proceeds] on or before ____________, 20__.  
 If payment is not made by the stated date, this Agreement shall automatically terminate and neither Party shall have any further obligation hereunder, except for obligations expressly stated to survive termination.
 
-The Parties agree to coordinate the payment and the execution and delivery of the Quitclaim Deed through a mutually agreed escrow agent to ensure the simultaneous exchange of funds and deed.
+The Parties agree to coordinate the payment and the execution and delivery of the necessary conveyance documents through a mutually agreed escrow agent to ensure the simultaneous exchange of funds and deed.
 
 ---
 
@@ -44,7 +44,7 @@ The Parties agree to coordinate the payment and the execution and delivery of th
 ---
 
 4. Transfer of Interest  
-[Party B/Party A] agrees to execute a Quitclaim Deed conveying all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement through escrow. Title and possession shall transfer upon recordation of the Quitclaim Deed.
+[Party B/Party A] agrees to execute any deed or other instruments reasonably necessary to convey all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement through escrow. Title and possession shall transfer upon recordation of such instruments.
 
 ---
 
@@ -69,7 +69,7 @@ The Parties affirm that the Property is currently not subject to any liens or en
 ---
 
 9. Expenses  
-The Parties agree that [Party A/Party B] shall bear all costs associated with this transaction, including but not limited to any legal fees, deed preparation, recording fees, and any financing costs, unless otherwise agreed in writing.
+The Parties agree that [Party A/Party B] shall bear all customary costs associated with the transfer of the Property, unless otherwise agreed in writing.
 
 ---
 
