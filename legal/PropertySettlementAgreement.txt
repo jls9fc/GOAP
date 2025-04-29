@@ -1,9 +1,9 @@
 PROPERTY SETTLEMENT AGREEMENT
 
-This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 20__, by and between:
+This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 2024, by and between:
 
-[Name of Party A], residing at [Address] ("Party A"), and  
-[Name of Party B], residing at [Address] ("Party B").
+John Lawrence Scerba, residing at 3635 Gill St, Chester, Virginia, 23831 ("Seller"), and  
+Amy Jessica Brick, residing at 3635 Gill St, Chester, Virginia, 23831 ("Buyer").
 
 Collectively referred to as the "Parties."
 
@@ -11,13 +11,13 @@ Collectively referred to as the "Parties."
 
 RECITALS
 
-WHEREAS, the Parties are co-owners of the real property located at [Full Property Address], Virginia, legally described as follows (the "Property"):
+WHEREAS, the Parties are co-owners of the real property located at 3635 Gill St, Chester, Virginia, 23831 (the "Property"), Tax ID: 792655276300000, legally described as follows:
 
 [Insert full legal property description from deed];
 
-WHEREAS, the Parties acknowledge that [Party A] owns 19% and [Party B] owns 81% of the Property as tenants in common;
+WHEREAS, the Parties acknowledge that Amy Jessica Brick owns 19% and John Lawrence Scerba owns 81% of the Property as tenants in common;
 
-WHEREAS, the Parties desire to formally terminate their co-ownership of the Property, with [Party A/Party B] purchasing the other’s interest;
+WHEREAS, the Parties desire to formally terminate their co-ownership of the Property, with Amy Jessica Brick purchasing John Lawrence Scerba’s interest;
 
 NOW, THEREFORE, in consideration of the mutual promises, covenants, and good and valuable consideration contained herein, the Parties agree as follows:
 
@@ -25,31 +25,31 @@ NOW, THEREFORE, in consideration of the mutual promises, covenants, and good and
 
 1. Ownership and Title  
 The Property is currently held as tenants in common. The Parties own undivided interests in the Property as follows:  
-- [Party A]: [Insert percentage]%  
-- [Party B]: [Insert percentage]%
+- Amy Jessica Brick: 19%  
+- John Lawrence Scerba: 81%
 
 ---
 
 2. Buyout Terms  
-[Party A/Party B] shall purchase [Party B/Party A]'s interest for the sum of $__________, payable by [e.g., lump sum / refinance proceeds] on or before ____________, 20__.  
+Amy Jessica Brick shall purchase John Lawrence Scerba's interest for the sum of $311,000, payable by refinance loan proceeds on or before December 31, 2024.  
 If payment is not made by the stated date, this Agreement shall automatically terminate and neither Party shall have any further obligation hereunder, except for obligations expressly stated to survive termination.
 
 The Parties agree to coordinate the payment and the execution and delivery of the necessary conveyance documents through a mutually agreed escrow agent to ensure the simultaneous exchange of funds and deed.
 
 ---
 
-3. New Financing (If Applicable)  
-[Party A/Party B] may obtain new financing to complete this buyout, but there is no existing mortgage on the Property to refinance.
+3. New Financing  
+Amy Jessica Brick may obtain new financing to complete this buyout through a refinance loan.
 
 ---
 
 4. Transfer of Interest  
-[Party B/Party A] agrees to execute any deed or other instruments reasonably necessary to convey all of their interest in the Property to [Party A/Party B] within three (3) business days of receiving full payment under this Agreement through escrow. Title and possession shall transfer upon recordation of such instruments.
+John Lawrence Scerba agrees to execute any deed or other instruments reasonably necessary to convey all of his interest in the Property to Amy Jessica Brick within three (3) business days of receiving full payment under this Agreement through escrow. Title and possession shall transfer upon recordation of such instruments.
 
 ---
 
 5. Possession  
-Upon completion of the transfer, [Party A/Party B] shall have exclusive possession of the Property.
+Upon completion of the transfer, Amy Jessica Brick shall have exclusive possession of the Property.
 
 ---
 
@@ -69,7 +69,7 @@ The Parties affirm that the Property is currently not subject to any liens or en
 ---
 
 9. Expenses  
-The Parties agree that [Party A/Party B] shall bear all customary costs associated with the transfer of the Property, unless otherwise agreed in writing.
+Amy Jessica Brick shall bear all customary costs associated with the transfer of the Property, unless otherwise agreed in writing.
 
 ---
 
@@ -117,18 +117,18 @@ IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date firs
 
 _________________________  
 Signature  
-[Typed Name of Party A]
+John Lawrence Scerba
 
 _________________________  
 Signature  
-[Typed Name of Party B]
+Amy Jessica Brick
 
 ---
 
 STATE OF VIRGINIA  
 COUNTY OF ______________
 
-The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party A Name], who is personally known to me or has produced [ID type] and who signed this instrument in their individual capacity.
+The foregoing instrument was acknowledged before me this ___ day of ____________, 2024, by John Lawrence Scerba, who is personally known to me or has produced [ID type] and who signed this instrument in his individual capacity.
 
 _________________________  
 Notary Public  
@@ -140,7 +140,7 @@ Notary Registration Number: __________
 STATE OF VIRGINIA  
 COUNTY OF ______________
 
-The foregoing instrument was acknowledged before me this ___ day of ____________, 20__, by [Party B Name], who is personally known to me or has produced [ID type] and who signed this instrument in their individual capacity.
+The foregoing instrument was acknowledged before me this ___ day of ____________, 2024, by Amy Jessica Brick, who is personally known to me or has produced [ID type] and who signed this instrument in her individual capacity.
 
 _________________________  
 Notary Public  
