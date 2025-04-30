@@ -2,8 +2,8 @@ PROPERTY SETTLEMENT AGREEMENT
 
 This Property Settlement Agreement ("Agreement") is made and entered into this ___ day of ____________, 2024, by and between:
 
-John Lawrence Scerba, residing at 3635 Gill St, Chester, Virginia, 23831 ("Seller"), and  
-Amy Jessica Brick, residing at 3635 Gill St, Chester, Virginia, 23831 ("Buyer").
+Party A, residing at 3635 Gill St, Chester, Virginia, 23831 ("Party A"), and  
+Party B, residing at 3635 Gill St, Chester, Virginia, 23831 ("Party B").
 
 Collectively referred to as the "Parties."
 
@@ -15,9 +15,9 @@ WHEREAS, the Parties are co-owners of the real property located at 3635 Gill St,
 
 [Insert full legal property description from deed];
 
-WHEREAS, the Parties acknowledge that Amy Jessica Brick owns 19% and John Lawrence Scerba owns 81% of the Property as tenants in common;
+WHEREAS, the Parties acknowledge that Party B owns 19% and Party A owns 81% of the Property as tenants in common;
 
-WHEREAS, the Parties desire to formally terminate their co-ownership of the Property, with Amy Jessica Brick purchasing John Lawrence Scerba’s interest;
+WHEREAS, the Parties desire to formally terminate their co-ownership of the Property, with Party B purchasing Party A’s interest;
 
 NOW, THEREFORE, in consideration of the mutual promises, covenants, and good and valuable consideration contained herein, the Parties agree as follows:
 
@@ -25,13 +25,13 @@ NOW, THEREFORE, in consideration of the mutual promises, covenants, and good and
 
 1. Ownership and Title  
 The Property is currently held as tenants in common. The Parties own undivided interests in the Property as follows:  
-- Amy Jessica Brick: 19%  
-- John Lawrence Scerba: 81%
+- Party B: 19%  
+- Party A: 81%
 
 ---
 
 2. Buyout Terms  
-Amy Jessica Brick shall purchase John Lawrence Scerba's interest for the sum of $311,000, payable by refinance loan proceeds on or before December 31, 2024.  
+Party B shall purchase Party A's interest for the sum of $311,000, payable by refinance loan proceeds on or before December 31, 2024.  
 If payment is not made by the stated date, this Agreement shall automatically terminate and neither Party shall have any further obligation hereunder, except for obligations expressly stated to survive termination.
 
 The Parties agree to coordinate the payment and the execution and delivery of the necessary conveyance documents through a mutually agreed escrow agent to ensure the simultaneous exchange of funds and deed.
@@ -39,17 +39,17 @@ The Parties agree to coordinate the payment and the execution and delivery of th
 ---
 
 3. New Financing  
-Amy Jessica Brick may obtain new financing to complete this buyout through a refinance loan.
+Party B may obtain new financing to complete this buyout through a refinance loan.
 
 ---
 
 4. Transfer of Interest  
-John Lawrence Scerba agrees to execute any deed or other instruments reasonably necessary to convey all of his interest in the Property to Amy Jessica Brick within three (3) business days of receiving full payment under this Agreement through escrow. Title and possession shall transfer upon recordation of such instruments.
+Party A agrees to execute any deed or other instruments reasonably necessary to convey all of his interest in the Property to Party B within three (3) business days of receiving full payment under this Agreement through escrow. Title and possession shall transfer upon recordation of such instruments.
 
 ---
 
 5. Possession  
-Upon completion of the transfer, Amy Jessica Brick shall have exclusive possession of the Property.
+Upon completion of the transfer, Party B shall have exclusive possession of the Property.
 
 ---
 
@@ -69,7 +69,7 @@ The Parties affirm that the Property is currently not subject to any liens or en
 ---
 
 9. Expenses  
-Amy Jessica Brick shall bear all customary costs associated with the transfer of the Property, unless otherwise agreed in writing.
+Party B shall bear all customary costs associated with the transfer of the Property, unless otherwise agreed in writing.
 
 ---
 
