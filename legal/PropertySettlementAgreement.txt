@@ -65,8 +65,13 @@ Upon completion of the buyout and transfer of interest, the Parties mutually rel
 
 ---
 
-8. Disclosure of Liens  
-The Parties affirm that the Property is currently not subject to any liens or encumbrances other than non-delinquent real estate taxes, non-delinquent assessments, and homeowners' association dues (if applicable). If any undisclosed liens are discovered, the responsible Party shall promptly satisfy, indemnify, and hold harmless the other Party from any liability arising therefrom.
+8. Title and Liens
+
+Party A represents and warrants that he is the sole legal owner of an undivided 81% interest in the Property and that he holds good and marketable title to such interest, free and clear of all liens, claims, encumbrances, mortgages, deeds of trust, judgments, or other defects in title, except for (i) current, nondelinquent real estate taxes and assessments, and (ii) recorded covenants, conditions, restrictions, and easements that do not materially impair the current use or marketability of the Property.
+
+Party A further represents and warrants that he has full power and authority to convey his interest in the Property to Party B without the consent or joinder of any third party, and agrees to take all reasonable actions necessary to deliver good and marketable title to Party B at closing.
+
+In the event any undisclosed lien, encumbrance, or title defect is discovered that is attributable to Party A's period of ownership, Party A shall, at his sole cost and expense, promptly satisfy, release, or cure such issue and indemnify and hold harmless Party B from any loss, cost, or liability arising therefrom.
 
 ---
 
