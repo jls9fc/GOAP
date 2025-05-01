@@ -17,7 +17,6 @@ ALL that certain lot, piece or parcel of land lying and being in Bermuda Distric
 
 BEING the same property conveyed to Kenneth S. Brown and Karen M. Brown, as tenants by the entirety with the right of survivorship as at common law, by Deed from Robert Wayne Partin, dated September 17, 2009, and recorded September 23, 2009, in the Clerk’s Office, Circuit Court, Chesterfield County, Virginia, in book 8871, page 643.
 
-
 WHEREAS, the Parties acknowledge that Party B owns 19% and Party A owns 81% of the Property as tenants in common;
 
 WHEREAS, the Parties desire to formally terminate their co-ownership of the Property, with Party B purchasing Party A’s interest;
@@ -41,8 +40,8 @@ The Parties agree to coordinate the payment and the execution and delivery of th
 
 ---
 
-3. New Financing  
-Party B may obtain new financing to complete this buyout through a refinance loan.
+3. Financing Contingency  
+This Agreement is contingent upon Party B obtaining financing sufficient to complete the purchase of Party A’s interest in the Property, on terms acceptable to Party B in her sole discretion. Party B shall use good faith efforts to obtain such financing. If Party B is unable to secure such financing, she may terminate this Agreement by providing written notice to Party A at any time prior to July 31, 2025. Upon such termination, neither Party shall have any further obligation hereunder, except for obligations expressly stated to survive termination.
 
 ---
 
@@ -62,8 +61,7 @@ All real estate taxes, homeowners' association dues (if any), and other assessme
 ---
 
 7. Release of Claims  
-Upon completion of the buyout and transfer of interest, the Parties mutually release and discharge each other from any and all claims, obligations, or liabilities arising out of or related to their ownership, use, or co-ownership of the Property prior to the date of transfer.  
-This release shall not apply to any acts, omissions, or causes of action arising after the date of transfer.
+Upon completion of the buyout and transfer of interest, the Parties mutually release and discharge each other from any and all claims, obligations, or liabilities arising out of or related to their ownership, use, or co-ownership of the Property prior to the date of transfer. This release shall not apply to any acts, omissions, or causes of action arising after the date of transfer.
 
 ---
 
