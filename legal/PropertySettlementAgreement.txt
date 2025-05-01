@@ -13,7 +13,10 @@ RECITALS
 
 WHEREAS, the Parties are co-owners of the real property located at 3635 Gill St, Chester, Virginia, 23831 (the "Property"), Tax ID: 792655276300000, legally described as follows:
 
-[Insert full legal property description from deed];
+ALL that certain lot, piece or parcel of land lying and being in Bermuda District, Chesterfield County, Virginia, containing 0.35 acres, more or less, as shown on plat of survey prepared by Paul A. Halder, CLS, dated 09/16/2009, and entitled “PLAT SHOWING A PHYSICAL SURVEY OF A PORTION OF LOTS 114, 115, AND 116, BLOCK G, EAST CHESTER”, a copy of which plat is recorded in DB 8871, P 647, and to which plat reference is hereby made for a more particular description of said real estate.
+
+BEING the same property conveyed to Kenneth S. Brown and Karen M. Brown, as tenants by the entirety with the right of survivorship as at common law, by Deed from Robert Wayne Partin, dated September 17, 2009, and recorded September 23, 2009, in the Clerk’s Office, Circuit Court, Chesterfield County, Virginia, in book 8871, page 643.
+
 
 WHEREAS, the Parties acknowledge that Party B owns 19% and Party A owns 81% of the Property as tenants in common;
 
